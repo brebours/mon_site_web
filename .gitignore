@@ -2,5 +2,4 @@ tmp/*
 *.csv
 *.xlsx
 *.json
-*.xml
 *.txt
